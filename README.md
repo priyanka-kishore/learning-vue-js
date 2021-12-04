@@ -2,6 +2,7 @@
 
 1. [Before getting started](#getting-started)
 2. [What is Vue?](#what-is-vue)
+3. [Testing](#testing)
 
 <br>  
 
@@ -23,4 +24,23 @@ This simple task requires you to know the basics of UI programming:
 
 ## What is Vue? <a name='what-is-vue'></a>
 - progressive framework for building *user interfaces*
-- 
+- progressive framework for building *user interfaces*
+- progressive framework for building *user interfaces*
+- progressive framework for building *user interfaces*
+- progressive framework for building *user interfaces*
+- progressive framework for building *user interfaces*
+- progressive framework for building *user interfaces*
+- progressive framework for building *user interfaces*
+- progressive framework for building *user interfaces*
+- progressive framework for building *user interfaces*
+- progressive framework for building *user interfaces*
+- progressive framework for building *user interfaces*
+- progressive framework for building *user interfaces*
+- progressive framework for building *user interfaces*
+- progressive framework for building *user interfaces*
+- progressive framework for building *user interfaces*
+- progressive framework for building *user interfaces*
+- progressive framework for building *user interfaces*
+
+
+## testing <a name='testing'></a>
