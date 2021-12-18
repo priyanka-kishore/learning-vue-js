@@ -19,6 +19,7 @@ This simple task requires you to know the basics of UI programming:
 - DOM (document object model) querying
 - DOM manipulation
 - event handling
+- test
 
 <br>  
 
